@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "93C5AB57-B43E-4ED3-A1F5-BCB592D2285D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AC6E76FE-BF68-4664-A846-00144686AFE4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WordCountTests/TextServiceTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "testRetrieveFileString()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AC6E76FE-BF68-4664-A846-00144686AFE4 - 57a198d8beb6e3d8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WordCountTests.TextServiceTests.testRetrieveFileString() throws -&gt; ()"
+                  moduleName = "WordCountTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/juan.eguizabal/WordCount/WordCountTests/TextServiceTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "480">
+               </Location>
+               <Location
+                  uuid = "AC6E76FE-BF68-4664-A846-00144686AFE4 - 57a198d8beb6e3fb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WordCountTests.TextServiceTests.testRetrieveFileString() throws -&gt; ()"
+                  moduleName = "WordCountTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/juan.eguizabal/WordCount/WordCountTests/TextServiceTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "705">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
